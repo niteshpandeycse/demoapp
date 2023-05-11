@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +22,16 @@
 
 .App-link {
   color: #61dafb;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root{
+  background-color: #000332 !important;
+  color: white !important;
+}
+.css-yw020d-MuiAccordionSummary-expandIconWrapper{
+  color: white !important;
+}
+.childBlock{
+  padding: 5px;
 }
 
 @keyframes App-logo-spin {
